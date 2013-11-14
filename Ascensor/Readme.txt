@@ -1,0 +1,2 @@
+This code implements a set of C++ functions to control the elevators of the building. This directory contains the compiled files to simulate it and all the source files to manage the elevators. The directory also contains the files to get statics of each elevator.
+The elevators work following the same rules and behavior that follow in real implementations (when a user pushes a button, the closest elevator should go unless it is going on the opposite direction or it is full). 
